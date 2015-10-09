@@ -33,7 +33,6 @@ uploadArchives {
             pom.groupId = 'com.banyaibalazs.mvnlibdemo'
             pom.artifactId = 'lib'
             pom.version = '1.0.0'
-
         }
     }
 }
