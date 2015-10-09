@@ -1,4 +1,4 @@
-package com.banyaibalazs.mvnlibdemo;
+package com.banyaibalazs.mvnlibdemo.lib;
 
 public class Library {
 
